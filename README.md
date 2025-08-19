@@ -1,6 +1,6 @@
 # Plasma Stick 2040 W – Multi-Scene Romance Lights
 
-**Author:** (shared publicly, thank KarstenJohansson@gmail.com if you use this!)  
+**Author:** (shared publicly, consider thanking KarstenJohansson@gmail.com if you use this!)  
 **License:** Public Domain / Unlicense  
 **Hardware:** Pimoroni Plasma Stick 2040 W (or RP2040 board with WS2812/NeoPixel strip and MicroPython)
 
